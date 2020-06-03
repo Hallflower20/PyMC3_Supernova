@@ -1,0 +1,312 @@
+INFO (theano.gof.compilelock): Waiting for existing lock by process '298062' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '25492' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '418153' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '10991' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '126704' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '25492' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '35063' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '126704' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '48808' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '21031' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '390560' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '381608' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '424063' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '138638' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '25492' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '67198' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '118062' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '390560' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '152164' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '332245' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '331281' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '10991' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '346708' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '426464' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '25896' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '426464' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '346708' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '156149' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '32058' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '4751' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '156149' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '5071' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '11413' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '32058' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '381608' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '48808' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '381608' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '86441' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '4751' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '332245' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '86441' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '424063' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '31714' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '298062' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '118062' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '138638' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '1983' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '25896' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '21031' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '32116' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '31714' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '32116' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '21031' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '25896' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '4751' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '29616' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '6794' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '67198' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+WARNING (theano.gof.compilelock): Something wrong happened: <class 'FileExistsError'> [Errno 17] File exists: '/home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir'
+INFO (theano.gof.compilelock): Waiting for existing lock by process '32116' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '4751' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '83502' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '83502' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '21693' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '11413' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '25896' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '422276' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '83502' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '424063' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '35063' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '332245' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '422276' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '21693' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '390560' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '4751' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '29616' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '152164' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '365571' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '21693' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '18121' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '332245' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '29616' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '21693' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '390560' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+INFO (theano.gof.compilelock): Waiting for existing lock by process '21031' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '5071' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '118062' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '32058' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '48808' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '25896' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '1983' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '6794' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '67198' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '32116' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '31714' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '4751' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '25492' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '247266' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [gamma, scalar, sigma, t0, Beta, Amplitude, tfall, trise]
+There were 2 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 7 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.6938468930718497, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 6 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.690540456598274, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 27 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.5905865210965974, but should be close to 0.8. Try to increase the number of tuning steps.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+There were 62 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.47072098702404586, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 15 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 11 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.6413586636210455, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 51 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.38215164759899095, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.8958022835563471, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 7 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.8808802807097351, but should be close to 0.8. Try to increase the number of tuning steps.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+There were 5 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 3 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 52 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.5284265638915329, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 4 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 26 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.600072741006963, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 5 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.8986040616060202, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 10% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [gamma, scalar, sigma, t0, Beta, Amplitude, tfall, trise]
+There were 4313 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.12434089347724431, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9470142309694135, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9279756781772107, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9415917296641926, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9318586449226012, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 1685 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.2415039431175016, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9517927494859778, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.959729541182023, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.95174416401151, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 23 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 4844 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.09816287434344875, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.883370129653108, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 13 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.7187799320245138, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 2576 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.2077029668321185, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 6 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.9247870736203563, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 4 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 22 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.6900390681522899, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9238633030355407, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 10% for some parameters.
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '365571' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '21031' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [scalar, gamma, sigma, t0, Beta, Amplitude, tfall, trise]
+INFO (theano.gof.compilelock): Waiting for existing lock by process '298062' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '25492' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+The acceptance probability does not match the target. It is 0.6562387606326551, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.893358993895416, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.6415153587364262, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9076990094126366, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.627547077296245, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 25% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+INFO (theano.gof.compilelock): Waiting for existing lock by process '21031' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '365571' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '11413' (I am process '26786')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [scalar, gamma, sigma, t0, Beta, Amplitude, tfall, trise]
+The acceptance probability does not match the target. It is 0.882749900862289, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.7134945610565376, but should be close to 0.8. Try to increase the number of tuning steps.

@@ -1,0 +1,113 @@
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '129580' (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '12915' (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '247277' (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+INFO (theano.gof.compilelock): Waiting for existing lock by process '292812' (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '129580' (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '184716' (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '292812' (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [gamma, scalar, sigma, t0, Beta, Amplitude, tfall, trise]
+The acceptance probability does not match the target. It is 0.7023167781332628, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.7070160918014348, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 178 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.3744225038770787, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 664 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.24856952008220548, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.8987164523414631, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 25% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [gamma, scalar, sigma, t0, Beta, Amplitude, tfall, trise]
+There were 143 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.6147082531386866, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 6 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 30 divergences after tuning. Increase `target_accept` or reparameterize.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+There were 11 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.9233770213083775, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 2 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 3 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 87 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.628775254850839, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.8938294373040262, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 8 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.8909016986924769, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 25% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [scalar, gamma, sigma, t0, Beta, Amplitude, tfall, trise]
+The acceptance probability does not match the target. It is 0.8846039351052744, but should be close to 0.8. Try to increase the number of tuning steps.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [scalar, gamma, sigma, t0, Beta, Amplitude, tfall, trise]
+INFO (theano.gof.compilelock): Waiting for existing lock by process '129580' (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+INFO (theano.gof.compilelock): Waiting for existing lock by process '3897' (I am process '202457')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/xjh0560/.theano/compiledir_Linux-3.10-el7.x86_64-x86_64-with-redhat-7.5-Maipo-x86_64-3.6.10-64/lock_dir
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [gamma, scalar, sigma, t0, Beta, Amplitude, tfall, trise]
+The acceptance probability does not match the target. It is 0.8805989108656842, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 9 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.7203739884157425, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 13 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.6801335017924359, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 2 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 10 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.7083219872897633, but should be close to 0.8. Try to increase the number of tuning steps.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+There were 3 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.7044219421657666, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 44 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.6820357192690676, but should be close to 0.8. Try to increase the number of tuning steps.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+There were 5 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 6 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.7000015820168446, but should be close to 0.8. Try to increase the number of tuning steps.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+The number of effective samples is smaller than 25% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [gamma, scalar, sigma, t0, Beta, Amplitude, tfall, trise]
+The acceptance probability does not match the target. It is 0.8808551135603502, but should be close to 0.8. Try to increase the number of tuning steps.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+There were 8 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.7058195972338271, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 25% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [scalar, gamma, sigma, t0, Beta, Amplitude, tfall, trise]
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+There were 5 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.8889245420886195, but should be close to 0.8. Try to increase the number of tuning steps.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [scalar, gamma, sigma, t0, Beta, Amplitude, tfall, trise]
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.

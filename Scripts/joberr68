@@ -1,0 +1,126 @@
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [gamma, scalar, sigma, t0, Beta, Amplitude, tfall, trise]
+There were 3 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.5973745670304415, but should be close to 0.8. Try to increase the number of tuning steps.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.9156671815031421, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.6992270949560616, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 3 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.5939284840940459, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 5 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.5933287371044007, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.7113667285727606, but should be close to 0.8. Try to increase the number of tuning steps.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.5711928421722678, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 25% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [gamma, scalar, sigma, t0, Beta, Amplitude, tfall, trise]
+There were 203 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.688589391095033, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 4329 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.10276902994839465, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9370690857872835, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 2262 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.23337676897343904, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 765 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.43038413472798853, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 6 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 462 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.5605686799692243, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 1867 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.2896705134928178, but should be close to 0.8. Try to increase the number of tuning steps.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.8939168688839992, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 355 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.5577824303215824, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 84 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 3034 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.17279404469339996, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 1204 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.3461029903691905, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 77 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.9090839056568436, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 16 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.8799054295295811, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 1814 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.3085558339316528, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 1552 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.32393631665728967, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9258228112395356, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 10% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [scalar, gamma, sigma, t0, Beta, Amplitude, tfall, trise]
+There were 3 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.6135081172835695, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 2 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.6764347681227165, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.8821145006864617, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.7091039966047539, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9098513746779081, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 211 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.30318401974300874, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 41 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.4580828884367899, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.9280490953272084, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.8889878663954188, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 25% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [scalar, gamma, sigma, t0, Beta, Amplitude, tfall, trise]
+There were 137 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.6853908224926794, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 44 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 19 divergences after tuning. Increase `target_accept` or reparameterize.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+There were 20 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.9432527270416096, but should be close to 0.8. Try to increase the number of tuning steps.
+The rhat statistic is larger than 1.2 for some parameters.
+The estimated number of effective samples is smaller than 200 for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [gamma, scalar, sigma, t0, Beta, Amplitude, tfall, trise]
+There were 10 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.6672716588011219, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 2 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 2 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.9115068764853418, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 4 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 4204 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.1217450108834201, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 102 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.4286267441876461, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 3 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.8930794015521375, but should be close to 0.8. Try to increase the number of tuning steps.
+There were 2 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 838 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.2970308144864387, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 10% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [gamma, scalar, sigma, t0, Beta, Amplitude, tfall, trise]
+There were 2 divergences after tuning. Increase `target_accept` or reparameterize.
+There were 5 divergences after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.5722570700292294, but should be close to 0.8. Try to increase the number of tuning steps.
+There was 1 divergence after tuning. Increase `target_accept` or reparameterize.
+The acceptance probability does not match the target. It is 0.708550471075603, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.6979849065096199, but should be close to 0.8. Try to increase the number of tuning steps.
+The acceptance probability does not match the target. It is 0.6972889626834377, but should be close to 0.8. Try to increase the number of tuning steps.
+The number of effective samples is smaller than 25% for some parameters.
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [scalar, gamma, sigma, t0, Beta, Amplitude, tfall, trise]
+Auto-assigning NUTS sampler...
+Initializing NUTS using jitter+adapt_diag...
+Multiprocess sampling (20 chains in 20 jobs)
+NUTS: [scalar, gamma, sigma, t0, Beta, Amplitude, tfall, trise]

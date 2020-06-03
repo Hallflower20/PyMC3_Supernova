@@ -25,6 +25,7 @@ from multiprocessing.pool import ThreadPool
 from astropy.table import Table
 import pandas as pd
 import os
+import sys
 #exp, log, sqrt
 
 import seaborn as sns
@@ -37,28 +38,6 @@ core_count = 20
 
 
 # In[2]:
-
-ResultsTable = Table(
-                    names=("filename", "filter",
-                           "Amplitude_MAP", 'Amplitude_mean', 'Amplitude_sd', 'Amplitude_hpd_3%', 'Amplitude_hpd_97%', 'Amplitude_mcse_mean', 'Amplitude_mcse_sd', 'Amplitude_ess_mean', 'Amplitude_ess_sd', 'Amplitude_ess_bulk', 'Amplitude_ess_tail', 'Amplitude_r_hat',
-                           'trise_MAP','trise_mean','trise_sd','trise_hpd_3%','trise_hpd_97%','trise_mcse_mean','trise_mcse_sd','trise_ess_mean','trise_ess_sd','trise_ess_bulk','trise_ess_tail','trise_r_hat',
-                           'tfall_MAP','tfall_mean','tfall_sd','tfall_hpd_3%','tfall_hpd_97%','tfall_mcse_mean','tfall_mcse_sd','tfall_ess_mean','tfall_ess_sd','tfall_ess_bulk','tfall_ess_tail','tfall_r_hat',
-                           'Beta_MAP','Beta_mean','Beta_sd','Beta_hpd_3%','Beta_hpd_97%','Beta_mcse_mean','Beta_mcse_sd','Beta_ess_mean','Beta_ess_sd','Beta_ess_bulk','Beta_ess_tail','Beta_r_hat',
-                           't0_MAP','t0_mean','t0_sd','t0_hpd_3%','t0_hpd_97%','t0_mcse_mean','t0_mcse_sd','t0_ess_mean','t0_ess_sd','t0_ess_bulk','t0_ess_tail','t0_r_hat',
-                           'gamma_MAP','gamma_mean','gamma_sd','gamma_hpd_3%','gamma_hpd_97%','gamma_mcse_mean','gamma_mcse_sd','gamma_ess_mean','gamma_ess_sd','gamma_ess_bulk','gamma_ess_tail','gamma_r_hat',
-                           'scalar_MAP','scalar_mean','scalar_sd','scalar_hpd_3%','scalar_hpd_97%','scalar_mcse_mean','scalar_mcse_sd','scalar_ess_mean','scalar_ess_sd','scalar_ess_bulk','scalar_ess_tail','scalar_r_hat',
-                    ),
-                    meta={"name": "SuperNova Data Results after PyMC3 Analysis"},
-                    dtype=("U64", "U4",
-                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
-                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
-                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
-                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
-                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
-                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
-                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
-                          )
-                    )
 
 
 # In[3]:
@@ -146,9 +125,7 @@ def model_run(model,i,trace, iterations, core):
 
 # In[9]:
 
-import glob
 path = "/home/xjh0560/Supernova_Lightcurves/LC_Data/"
-filelist = np.asarray(glob.glob("/home/xjh0560/Supernova_Lightcurves/LC_Data/sample_lc_v2/*.h5"))
 
 
 # In[10]:
@@ -404,7 +381,27 @@ def SuperNova_Analysis(file):
     ax.set_ylabel('y_observed')
     fig.savefig(new_path+"final.png", dpi = 600)
 
-
+    ResultsTable = Table(
+                    names=("filename", "filter",
+                           "Amplitude_MAP", 'Amplitude_mean', 'Amplitude_sd', 'Amplitude_hpd_3%', 'Amplitude_hpd_97%', 'Amplitude_mcse_mean', 'Amplitude_mcse_sd', 'Amplitude_ess_mean', 'Amplitude_ess_sd', 'Amplitude_ess_bulk', 'Amplitude_ess_tail', 'Amplitude_r_hat',
+                           'trise_MAP','trise_mean','trise_sd','trise_hpd_3%','trise_hpd_97%','trise_mcse_mean','trise_mcse_sd','trise_ess_mean','trise_ess_sd','trise_ess_bulk','trise_ess_tail','trise_r_hat',
+                           'tfall_MAP','tfall_mean','tfall_sd','tfall_hpd_3%','tfall_hpd_97%','tfall_mcse_mean','tfall_mcse_sd','tfall_ess_mean','tfall_ess_sd','tfall_ess_bulk','tfall_ess_tail','tfall_r_hat',
+                           'Beta_MAP','Beta_mean','Beta_sd','Beta_hpd_3%','Beta_hpd_97%','Beta_mcse_mean','Beta_mcse_sd','Beta_ess_mean','Beta_ess_sd','Beta_ess_bulk','Beta_ess_tail','Beta_r_hat',
+                           't0_MAP','t0_mean','t0_sd','t0_hpd_3%','t0_hpd_97%','t0_mcse_mean','t0_mcse_sd','t0_ess_mean','t0_ess_sd','t0_ess_bulk','t0_ess_tail','t0_r_hat',
+                           'gamma_MAP','gamma_mean','gamma_sd','gamma_hpd_3%','gamma_hpd_97%','gamma_mcse_mean','gamma_mcse_sd','gamma_ess_mean','gamma_ess_sd','gamma_ess_bulk','gamma_ess_tail','gamma_r_hat',
+                           'scalar_MAP','scalar_mean','scalar_sd','scalar_hpd_3%','scalar_hpd_97%','scalar_mcse_mean','scalar_mcse_sd','scalar_ess_mean','scalar_ess_sd','scalar_ess_bulk','scalar_ess_tail','scalar_r_hat',
+                    ),
+                    meta={"name": "SuperNova Data Results after PyMC3 Analysis"},
+                    dtype=("U64", "U4",
+                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
+                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
+                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
+                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
+                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
+                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
+                           "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32", "float32",
+                          )
+                    )
     # In[29]:
 
     for i in range(len(filter_list)):
@@ -435,15 +432,14 @@ def SuperNova_Analysis(file):
 
 
     # In[30]:
+    new_path = path+"/lc_graphs/"+file.split("/")[-1]+"/"
+    ResultsTable.write(new_path + "/Results.csv", overwrite = True)
 
-    ResultsTable.write("/home/xjh0560/Supernova_Lightcurves/LC_Data/Results.csv", overwrite = True)
-
-
-# In[ ]:
-for file in filelist:
-    try:
-        SuperNova_Analysis(file)
-    except:
-        print("File Failed " + file)
+def run_analysis_multi(filelist):
+    for file in filelist:
+        try:
+            SuperNova_Analysis(file)
+        except:
+            print("File Failed " + file)
 
 
